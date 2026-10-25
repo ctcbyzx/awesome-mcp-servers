@@ -4332,6 +4332,20 @@
     "official": false
   },
   {
+    "name": "Baizhi Cloud Browser (CapyBrowser)",
+    "url": "https://github.com/chaitin/baizhi-cloud-browser",
+    "description": "Manage cloud browser sessions, saved profiles, human handoff and downloads via hosted MCP; page actions require a CDP client, and a Baizhi API key and paid browser runtime apply.",
+    "category": "browsers-search-and-web-automation",
+    "language": "Other",
+    "provider": "Baizhi Cloud",
+    "tags": [
+      "browser",
+      "remote",
+      "session-management"
+    ],
+    "official": false
+  },
+  {
     "name": "Openhook",
     "url": "https://github.com/openhook-dev/openhook-inbox",
     "description": "Open-source webhook inbox for AI agents to capture callbacks, inspect payloads, and wait for events over MCP; hosted or self-hosted, with private per-inbox access tokens.",
